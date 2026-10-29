@@ -1,0 +1,8 @@
+{
+  "name": "The Future Track Computer Education",
+  "description": "Premier computer training institute in City Centre, Dhanbad, Jharkhand offering ADCA, Tally Prime, Web Development, Graphic Design, and practical IT training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
